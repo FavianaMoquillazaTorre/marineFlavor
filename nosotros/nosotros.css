@@ -1,0 +1,22 @@
+body{
+    background-color: #FFF6ED;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #FFF6ED;
+}
+
+h2{
+    color: #261FEB;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 0 0 30px;
+}
